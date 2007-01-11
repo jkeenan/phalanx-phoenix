@@ -1,0 +1,14 @@
+README
+Changes
+MANIFEST
+Makefile.PL
+lib/Class/Multimethods.pm
+lib/Class/Multimethods.pod
+t/multimethods.t
+tutorial.html
+demo/demo.ambig.pl
+demo/demo.analyse.pl
+demo/demo.global.pl
+demo/demo.multi.pl
+demo/demo.numstr.pl
+demo/demo.super.pl

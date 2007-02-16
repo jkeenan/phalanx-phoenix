@@ -1,3 +1,4 @@
+# $Id$
 IO::Busy version 0.0.3
 
 Intercept terminal input while something else is happening

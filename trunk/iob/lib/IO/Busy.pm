@@ -1,4 +1,5 @@
 package IO::Busy;
+# $Id$
 
 use version; $VERSION = qv('0.0.3');
 
